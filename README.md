@@ -1,7 +1,8 @@
 # Data Scientist
 ## Contact me
-email: shivamgautam98@gmail.com
+email: shivamgautam98@gmail.com   
 phone: (269)-903-8962
+
 
 ### Masters of Science in Data Science at University of Colorado, Boulder
 
