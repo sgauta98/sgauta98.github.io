@@ -16,15 +16,15 @@ Foundations of Data Structures and Algorithms Certificate (Credential ID MXWWFBL
 
 - SQL/Power BI Data Visualization for Company Revenue Analysis Task
 
-  -This project aims to display various skills involving the use of SQL and PowerBI. I use Microsoft SQL Server and SQL Server Management Studio(SSMS). It will showcase many methods of cleaning and organizing data followed      by steps to visualize the data in order to achieve a given task by a company
+  - This project aims to display various skills involving the use of SQL and PowerBI. I use Microsoft SQL Server and SQL Server Management Studio(SSMS). It will showcase many methods of cleaning and organizing data followed      by steps to visualize the data in order to achieve a given task by a company
 
-  -Upon identifying the business question, I cleaned and prepared the data. After analysis I created a dashboard using organized csv files to display relevant information such as least purchased products, budget vs sales,       customer sales location and more.
+  - Upon identifying the business question, I cleaned and prepared the data. After analysis I created a dashboard using organized csv files to display relevant information such as least purchased products, budget vs sales,       customer sales location and more.
 
-  -The data used for this project is gathered from the Microsoft Adventureworks 2022 database which contains data relevant to the years specified in the business task.
+  - The data used for this project is gathered from the Microsoft Adventureworks 2022 database which contains data relevant to the years specified in the business task.
 
--Python Nutrition and Lifestyle Tracking Visualization 
+- Python Nutrition and Lifestyle Tracking Visualization 
 
-  -This is a personal learning project I did to further analyze a dataset similar to one I use on a daily basis to track nutrition, exercise and rest. I implement use of libraries including pandas, matplotlib and seaborn to     visualize an Excel dataset. The heatmap shows valuable information such as the correlation between successful workouts and meeting the nutrition goal. The plot visual allows for a holistic review of the lifestyle, where      improvement can be made and what is working. 
+  - This is a personal learning project I did to further analyze a dataset similar to one I use on a daily basis to track nutrition, exercise and rest. I implement use of libraries including pandas, matplotlib and seaborn to     visualize an Excel dataset. The heatmap shows valuable information such as the correlation between successful workouts and meeting the nutrition goal. The plot visual allows for a holistic review of the lifestyle, where      improvement can be made and what is working. 
 
   
 
