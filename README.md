@@ -3,8 +3,8 @@
 ### Masters of Science in Data Science at University of Colorado, Boulder
 
 ### Certifications
-Google Data Analytics Specialization Certificate (Credential ID PMWGPMANGUTV)
-Foundations of Data Structures and Algorithms Certificate (Credential ID MXWWFBL253TL)
+- Google Data Analytics Specialization Certificate (Credential ID PMWGPMANGUTV)
+- Foundations of Data Structures and Algorithms Certificate (Credential ID MXWWFBL253TL)
 
 ### Portfolio
 - Python ML Image Classification Training Model
