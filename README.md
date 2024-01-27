@@ -6,7 +6,7 @@
 - Google Data Analytics Specialization Certificate (Credential ID PMWGPMANGUTV)
 - Foundations of Data Structures and Algorithms Certificate (Credential ID MXWWFBL253TL)
 
-### Portfolio
+### Portfolio Projects (Source code in github repositories)
 - Python ML Image Classification Training Model
 
   - Created a pytorch model using the efficientnet b0 model from timm library. This model was used due to its integration with the PyTorch ecosystem. Additionally, it is pre-trained on large datasets which allows for 
