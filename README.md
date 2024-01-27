@@ -1,10 +1,16 @@
 # Data Scientist
+## Contact me
+email: shivamgautam98@gmail.com
+phone: (269)-903-8962
 
 ### Masters of Science in Data Science at University of Colorado, Boulder
 
 ### Certifications
 - Google Data Analytics Specialization Certificate (Credential ID PMWGPMANGUTV)
 - Foundations of Data Structures and Algorithms Certificate (Credential ID MXWWFBL253TL)
+
+### Skills
+- Python - SQL - Power BI - Tableau - Microsoft Excel - Azure - Docker 
 
 ### Portfolio Projects (Source code in github repositories)
 - Python ML Image Classification Training Model
